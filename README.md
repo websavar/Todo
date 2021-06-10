@@ -18,8 +18,6 @@ with the following features:
 - Jest (Test runner)
 - React Testing Library (Testing)
 
-> Note: Prefer function components and hooks over class components
-
 ## Setup and run
 1. Run `npm install` to install required dependencies
 2. Run `npm start` to run the project and Open http://localhost:3000
